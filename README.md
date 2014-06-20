@@ -7,3 +7,6 @@ took during June, 2014.
 
 In order to see the HTML report please visit the following address:
 
+  [http://emres.github.io/practical-ml/](http://emres.github.io/practical-ml/)
+
+
